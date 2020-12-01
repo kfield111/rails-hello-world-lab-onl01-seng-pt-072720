@@ -1,6 +1,6 @@
 class StaticController < ApplicationController
 
-  about do
+  get about
   end
 
 end
