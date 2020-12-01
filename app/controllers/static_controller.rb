@@ -1,6 +1,6 @@
 class StaticController < ApplicationController
 
-  get about
+  def about
   end
 
 end
